@@ -8,8 +8,8 @@ Messagerie service client
 - B2 - Du Luye
 - B1 - Stratmains Fabien
 
-## Liens veers le site web du projet
+## Liens vers le site web du projet
 ??
 
-## Liens vers le dépot githun du projet
+## Liens vers le dépot github du projet
 ??
