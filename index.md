@@ -1,8 +1,15 @@
+# Projet SAE 2.03 Equipe n°8
 
-# Préliminaires
-Avant de commencer à créer le site Web, vous trouverez ci-dessous certains éléments à prendre en compte pour la SAE 2.03 :
+## Titre du projet
+Messagerie service client
 
-## Évaluation de la SAE
-### Le SAE consistera en un travail d'équipe.
-### Travail se fera en équipe :
-- La plupart du temps à la SAE vous
+## Membre de l'equipe
+- B2 - Chaou Celim
+- B2 - Du Luye
+- B1 - Stratmains Fabien
+
+## Liens veers le site web du projet
+??
+
+## Liens vers le dépot githun du projet
+??
