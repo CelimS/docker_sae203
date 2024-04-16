@@ -44,10 +44,26 @@ Notre projet consiste en un chat entre client
 
 ## Cpature d'écran
 
+### Première capture d'écran
+
+```
+Voici l'ouverture du serveur et l'apparition d'un client comme vous pouvez le voir il y a un message en vert qui apparait disant qu'un client est arriver
+donc dans le docker il y a aussi un message disant qu'un client c'est connecter le deuxième client qui c'est connecté c'est Fabien sur sont ordinateur
+```
+
 ![](https://github.com/CelimS/docker_sae203/assets/166292533/b22d1902-07e0-4f13-a56a-4148dbcf7c49)
 
+### Deuxième capture d'écran
 
+```
+Voici un exemple d'echange entre moi et Fabien depuis le terminal de nos ordinateur grace au serveur sur docker
+```
 ![](https://github.com/CelimS/docker_sae203/assets/166292533/7bf7f467-8c13-4c5c-aa92-d2210e3d0d30)
 
+### Troisième capture d'écran
+
+```
+Cette dernière capture d'écran nous montre un message en rouge dans le docker qui nous montre que les clients ce sont déconnecter
+```
 ![](https://github.com/CelimS/docker_sae203/assets/166292533/350a98a3-c901-420b-ab0a-5893d7d4f8ef)
 
