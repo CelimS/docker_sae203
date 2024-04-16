@@ -2,7 +2,9 @@
 
 ## Titre du projet
 
+```
 Messagerie service client
+```
 
 ## Membre de l'equipe
 - B2 - Chaou Celim
