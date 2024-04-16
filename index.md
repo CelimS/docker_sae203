@@ -29,17 +29,21 @@ https://github.com/CelimS/docker_sae203.git
 ## Explication de pourquoi on a choisie ce projet
 
 ```
-On a commencé le travail lundi on c'est dit qu'il fallait qu'on fasse un système de méssagerie interactif on était bien partie pour réussir
+On a commencé le travail lundi on c'est dit qu'il fallait qu'on fasse un système de discussion interactif on était bien partie pour réussir
 mais il y a eu quelque problème donc mardi matin on a décider de refaire tous notre projet de zéro mais de garder la ligne directif de notre
-projet c'est-à-dire de rester sur le thème d'une messagerie mais cette fois-ci non interactif.
+projet c'est-à-dire de rester sur le thème d'une discussion mais cette fois-ci non interactif.
 ```
 
 ## Demarche pour notre projet
 
 ```
-Pour notre projet on a commencer par faire 
+Notre projet consiste en un chat entre client 
+```
+
+## Capture d'écran SAE 2.03
 ```
 ![](https://github.com/CelimS/docker_sae203/assets/166292533/f3ab5d8e-8801-45cb-8ab1-d98fc9c964b6)
+```
 
 ![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
 
