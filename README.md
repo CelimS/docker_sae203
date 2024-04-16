@@ -8,7 +8,7 @@ docker --version
 ```
 
 - Cloner le référentiel :
- ```shell
+```shell
 git clone  https://github.com/CelimS/docker_sae203.git
 ```
 
