@@ -13,5 +13,4 @@ Messagerie service client
 
 ## Liens vers le dépot github du projet
 ??
-
-<iframe width="560" height="315" src="![image](https://github.com/CelimS/docker_sae203/assets/166292533/998d5ac1-85f2-4333-8bb9-61f7069d5268)" frameborder="0" allowfullscreen></iframe>
+![Texte alternatif](https://avatars.githubusercontent.com/u/166305456?v=4)
