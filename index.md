@@ -40,7 +40,13 @@ mais cette fois-ci non interactif, pour cela on a décider de faire du java avec
 ## Demarche pour notre projet
 
 ```
-Notre projet consiste en un chat entre client 
+Notre projet consiste en un chat entre client. Nous avons commencé par créer un chat entre deux personnes, le serveur et le client.
+Nous avons ensuite mis a jour les fichiers serveur afin que le serveur puisse communiquer avec plus d'un client.
+Le chat entre deux personnes était plutôt simple car il suffisait d'utiliser les exemples et exercices du cours.
+Le chat de groupe était beaucoup plus dur à faire car il fallait créer différents thread pour que le serveur puisse continuer d'accueillir de nouveaux clients tout en continuant les interaction avec les clients déjà présents.
+
+Nous avons ensuite créé l'image docker et testé le dockerfile.
+Comme nos test étaient concluant, nous avons envoyé les fichiers sur github et finis tous les petits détails et rapports.
 ```
 
 ## Capture d'écran
