@@ -44,7 +44,8 @@ Notre projet consiste en un chat entre client
 
 ## Cpature d'écran
 
-![](https://github.com/CelimS/docker_sae203/assets/166292533/48c77a12-2f37-4efb-967f-c0f69367117a)
+![](https://github.com/CelimS/docker_sae203/assets/166292533/b22d1902-07e0-4f13-a56a-4148dbcf7c49)
+
 
 ![](https://github.com/CelimS/docker_sae203/assets/166292533/7bf7f467-8c13-4c5c-aa92-d2210e3d0d30)
 
