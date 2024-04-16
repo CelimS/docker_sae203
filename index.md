@@ -39,6 +39,7 @@ projet c'est-à-dire de rester sur le thème d'une messagerie mais cette fois-ci
 ```
 Pour notre projet on a commencer par faire 
 ```
+![](https://github.com/CelimS/docker_sae203/assets/166292533/f3ab5d8e-8801-45cb-8ab1-d98fc9c964b6)
 
 ![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
 
