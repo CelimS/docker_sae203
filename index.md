@@ -33,11 +33,20 @@ On a commencé le travail lundi on c'est dit qu'il fallait qu'on fasse un systè
 mais il y a eu quelque problème, donc mardi matin on a décider de refaire tous notre projet de zéro mais de garder la ligne directif de notre
 projet c'est-à-dire de rester sur le thème d'une discussion mais cette fois-ci non interactif, pour cela on a décider de faire du java avec un code chatClient et un code chatServer.
 ```
-![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
 
+![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
 
 ## Demarche pour notre projet
 
 ```
 Notre projet consiste en un chat entre client 
 ```
+
+## Cpature d'écran
+
+![](https://github.com/CelimS/docker_sae203/assets/166292533/48c77a12-2f37-4efb-967f-c0f69367117a)
+
+![](https://github.com/CelimS/docker_sae203/assets/166292533/7bf7f467-8c13-4c5c-aa92-d2210e3d0d30)
+
+![](https://github.com/CelimS/docker_sae203/assets/166292533/350a98a3-c901-420b-ab0a-5893d7d4f8ef)
+
