@@ -25,4 +25,7 @@ Messagerie service client
 ```
 ??
 ```
+## Démarche de la création du projet
 
+```
+On a commencé le travail lundi 
