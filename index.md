@@ -30,20 +30,14 @@ https://github.com/CelimS/docker_sae203.git
 
 ```
 On a commencé le travail lundi on c'est dit qu'il fallait qu'on fasse un système de discussion interactif on était bien partie pour réussir
-mais il y a eu quelque problème donc mardi matin on a décider de refaire tous notre projet de zéro mais de garder la ligne directif de notre
-projet c'est-à-dire de rester sur le thème d'une discussion mais cette fois-ci non interactif.
+mais il y a eu quelque problème, donc mardi matin on a décider de refaire tous notre projet de zéro mais de garder la ligne directif de notre
+projet c'est-à-dire de rester sur le thème d'une discussion mais cette fois-ci non interactif, pour cela on a décider de faire du java avec un code chatClient et un code chatServer.
 ```
+![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
+
 
 ## Demarche pour notre projet
 
 ```
 Notre projet consiste en un chat entre client 
 ```
-
-## Capture d'écran SAE 2.03
-```
-![](https://github.com/CelimS/docker_sae203/assets/166292533/f3ab5d8e-8801-45cb-8ab1-d98fc9c964b6)
-```
-
-![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
-
