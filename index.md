@@ -28,4 +28,4 @@ Messagerie service client
 ## Démarche de la création du projet
 
 ```
-On a commencé le travail lundi 
+On a commencé le travail lundi on c'est dit qu'il fallait qu'on fasse
