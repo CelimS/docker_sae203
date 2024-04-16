@@ -18,7 +18,7 @@ Messagerie service client
 ## Liens vers le site web du projet
 
 ```
-??
+https://celims.github.io/docker_sae203/
 ```
 
 ## Liens vers le dépot github du projet
@@ -37,7 +37,7 @@ projet c'est-à-dire de rester sur le thème d'une messagerie mais cette fois-ci
 ## Demarche pour notre projet
 
 ```
-Pour notre projet on
+Pour notre projet on a commencer par faire 
 ```
 
 ![](https://media1.giphy.com/media/7Q7SqFSRmzkFq/200.gif?cid=82a1493bzmgn8omptb0nqe3iqgvy4t74si8l3auvuu5n4vo3&ep=v1_gifs_search&rid=200.gif&ct=g)
