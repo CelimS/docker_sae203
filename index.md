@@ -40,4 +40,4 @@ projet c'est-à-dire de rester sur le thème d'une messagerie mais cette fois-ci
 Pour notre projet on
 ```
 
-![Texte alternatif]([https://avatars.githubusercontent.com/u/166305456?v=4](https://discord.com/channels/@me/1172238384161357874/1229778915631824916))
+!([https://avatars.githubusercontent.com/u/166305456?v=4](https://discord.com/channels/@me/1172238384161357874/1229778915631824916))
