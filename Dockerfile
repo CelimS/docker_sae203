@@ -1,16 +1,17 @@
-# Utiliser l'image debia officielle comme image parent
+##défini debain:latest comme l'image parent
 FROM debian:latest
 
-# Installer des services et des packages
-RUN  apt-get update && \
-    apt-get -y install  \
-    apache2
+##maj du package et installation de openjdk
+RUN apt-get update && apt-get install -y default-jdk
 
-# Copier les fichiers de l'hôte vers l'image
-COPY ./html /var/www/html
+##défini le dossier de travail à /app
+WORKDIR /app
 
-# Exposer le port 80
-EXPOSE 80
+##copie le contenue du dossier actuel dans le conteneur /app
+COPY . /app
 
-# Lancer le service apache au démarrage du conteneur
-CMD ["/usr/sbin/apache2ctl","-DFOREGROUND"]
+##compilation du serveur de chat
+RUN javac -encoding UTF-8 ChatServer.java
+
+##lance chatserver lors du lancement du conteneur
+CMD ["java", "ChatServer"]  
